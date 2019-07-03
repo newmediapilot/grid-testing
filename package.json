@@ -1,0 +1,19 @@
+{
+  "name": "grid-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/newmediapilot/grid-testing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/newmediapilot/grid-testing/issues"
+  },
+  "homepage": "https://github.com/newmediapilot/grid-testing#readme"
+}
