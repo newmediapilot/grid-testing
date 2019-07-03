@@ -15,5 +15,14 @@
   "bugs": {
     "url": "https://github.com/newmediapilot/grid-testing/issues"
   },
-  "homepage": "https://github.com/newmediapilot/grid-testing#readme"
+  "homepage": "https://github.com/newmediapilot/grid-testing#readme",
+  "dependencies": {
+    "autoprefixer": "^9.6.0",
+    "gulp": "^4.0.2",
+    "gulp-postcss": "^8.0.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-sourcemaps": "^2.6.5",
+    "gulp-webserver": "^0.9.1",
+    "node-sass": "^4.12.0"
+  }
 }
